@@ -1,0 +1,4 @@
+ultralytics
+streamlit-select>=0.3
+lancedb>=0.4.3
+duckdb<=0.9.2

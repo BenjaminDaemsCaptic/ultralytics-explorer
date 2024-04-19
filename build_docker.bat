@@ -1,0 +1,1 @@
+docker build --progress=plain -t abc:1 . -t ultralytics-captic
